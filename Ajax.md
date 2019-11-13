@@ -1,4 +1,4 @@
-### Axja封装
+### Ajax封装
 ```javascript
 function ajxa(){
     var xhr = null
