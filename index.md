@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/lianlingxuelan/note/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+我是GitHub Pages进入的除index.html的默认文件
+
+笔记详情请看目录: [目录](SUMMARY.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -18,9 +22,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-我是GitHub Pages进入的除index.html的默认文件
 
-笔记详情请看目录: [目录](SUMMARY.md)
 
 1. Numbered
 2. List
